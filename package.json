@@ -38,7 +38,7 @@
   "optionalDependencies": {
     "bluetooth-hci-socket": "^0.5.1",
     "bplist-parser": "0.0.6",
-    "xpc-connection": "~0.1.4"
+    "xpc-connection": "https://github.com/sandeepmistry/node-xpc-connection#pull/26/head"
   },
   "devDependencies": {
     "jshint": "latest",
